@@ -1,6 +1,6 @@
 /* ============================== typing animation ============================ */
 var typed = new Typed(".typing", {
-    strings: ["", "Développeuse en formation"],
+    strings: ["", "Développeuse junior"],
     typeSpeed: 40, // Speed between each letter is inserted
     typeSpeed: 100,
     backSpeed: 60,
